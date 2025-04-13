@@ -1,1 +1,2 @@
-vless://477c86f0-ae7c-4e64-9ab1-4deeb8f38cb0@5.181.108.253:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ragnar.bmelikem.online&fp=chrome&type=ws&sni=ragnar.bmelikem.online#Nederland🇳🇱
+vless://96ba1800-84fe-44b7-b2f3-8015120a9c94@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#🇩🇪 German
+https://drive.google.com/uc?id=1YxmalyJ0FGJM-pf63eb4eqi6sCaUeEZk&export=download
